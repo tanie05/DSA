@@ -1,0 +1,1 @@
+cout<<curr.first<<"-> "<<curr.second<<endl;
